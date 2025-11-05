@@ -1,9 +1,31 @@
-# Hi there, I'm Akram Guroo!
+# Hi there, I'm Akram Guroo! 👋
 
-- Frontend Developer | JavaScript Enthusiast
-- Skilled in HTML, CSS, and JavaScript (DOM, APIs)
-- Passionate about building responsive web applications.
-- Open to learning React and backend technologies.
+**Full-Stack Developer | JavaScript Enthusiast**
 
-📫 How to reach me: akramguroo.dev@gmail.com
+## 🚀 About Me
+- 🎨 Frontend Developer skilled in **HTML, CSS, and JavaScript** (DOM, APIs)
+- ⚛️ Building projects with **React** and **Vite**
+- 🔧 Developing backend applications with **Node.js** and **Express**
+- 💡 Passionate about building responsive, full-stack web applications
+
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React, Vite  
+**Backend:** Node.js, Express  
+**Tools:** Git, GitHub, VS Code  
+
+## 📂 Featured Projects
+- **Smart Chef** - Full-stack recipe generator (React + Express + AI API)
+- More projects coming soon!
+
+## 🌱 Currently Learning
+- Advanced backend development
+- Database integration (MongoDB/PostgreSQL)
+- Full-stack deployment strategies
+
+## 📫 Let's Connect: akramguroo.dev@gmail.com
+- Open to collaboration and learning opportunities!
+
+---
+
+*"Building one project at a time, learning every day."*
 
