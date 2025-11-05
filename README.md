@@ -14,7 +14,16 @@
 **Tools:** Git, GitHub, VS Code  
 
 ## 📂 Featured Projects
-- **Smart Chef** - Full-stack recipe generator (React + Express + AI API)
+
+### [Smart Chef](https://smart-chef-react-app.vercel.app) 🍳
+AI-powered recipe generator built with React + Express + Llama 3.3
+- **Live Demo**: [smart-chef-react-app.vercel.app](https://smart-chef-react-app.vercel.app)
+- **Tech**: React, Node.js, Express, Groq API
+- **Features**: Real-time recipe generation, AI-powered suggestions
+
+### [JavaScript Amazon Project]([link-here](https://akramguroo-dev.github.io/amazon-clone-ecommerce-site/)
+E-commerce clone with vanilla JavaScript
+- **Tech**: HTML, CSS, JavaScript
 - More projects coming soon!
 
 ## 🌱 Currently Learning
