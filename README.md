@@ -17,7 +17,7 @@
 
 ### [Smart Chef](https://smart-chef-react-app.vercel.app) 🍳
 AI-powered recipe generator built with React + Express + Llama 3.3
-- **Live Demo**: [smart-chef-react-app.vercel.app](https://smart-chef-react-app.vercel.app)
+- **Live Demo**: [smart-chef-react-app.vercel.app](https://smart-chef-react-app.vercel.app))
 - **Tech**: React, Node.js, Express, Groq API
 - **Features**: Real-time recipe generation, AI-powered suggestions
 
