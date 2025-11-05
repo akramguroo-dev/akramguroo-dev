@@ -21,9 +21,9 @@ AI-powered recipe generator built with React + Express + Llama 3.3
 - **Tech**: React, Node.js, Express, Groq API
 - **Features**: Real-time recipe generation, AI-powered suggestions
 
-### [JavaScript Amazon Project](https:akramguroo-dev.github.io/amazon-clone-ecommerce-site/)
+### [JavaScript Amazon Project](https://akramguroo-dev.github.io/amazon-clone-ecommerce-site/)
 E-commerce clone with vanilla JavaScript
-- **Live Demo**: [amazon-clone-ecommerce-site](https:akramguroo-dev.github.io/amazon-clone-ecommerce-site/)
+- **Live Demo**: [amazon-clone-ecommerce-site](https://akramguroo-dev.github.io/amazon-clone-ecommerce-site/)
 - **Tech**: HTML, CSS, JavaScript
 
 ---
