@@ -1,77 +1,82 @@
 # Hi there, I'm Akram Guroo! 👋
-**Full-Stack MERN Developer | Building Production-Ready Applications**
+**Full-Stack MERN Developer | Building Production-Ready, Real-Time Applications**
 
 ## 🚀 About Me
-- 💻 Full-Stack Developer specializing in **MERN Stack** (MongoDB, Express, React, Node.js)
-- ⚛️ Frontend expertise with **React**, **Vite**, and **Tailwind CSS**
-- 🔐 Backend development with **RESTful APIs**, **JWT authentication**, and **MongoDB**
-- 🎨 Experienced in building responsive, modern web applications from scratch
-- 📚 Constantly learning and implementing industry best practices
+- 💻 Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🔌 Passionate about **backend architecture** and **real-time systems** — I recently designed and shipped a production Socket.io messaging system with JWT-authenticated WebSockets
+- 👥 Led a 3-person team to build **HirePath**, a full-stack job portal, from architecture through deployment
+- 🎓 Completed a Full-Stack Developer internship at Null Classes (EdTech)
+- 📚 Constantly learning — currently building algorithmic foundations in C++ and open to full-stack internship/junior developer roles
 
 ## 🛠️ Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, Vite, Tailwind CSS  
-**Backend:** Node.js, Express.js, MongoDB, Mongoose  
-**Authentication:** JWT, bcrypt  
-**Tools & Workflow:** Git, GitHub, VS Code, Postman, MongoDB Atlas  
-**Deployment:** Vercel, Render, Netlify
+**Frontend:** React, Next.js, Redux Toolkit, TypeScript, Tailwind CSS, HTML, CSS, JavaScript
+**Backend:** Node.js, Express.js, REST APIs, Socket.io (WebSockets), JWT Authentication
+**Database:** MongoDB, Mongoose
+**Testing:** Jest, React Testing Library
+**Tools & Workflow:** Git, GitHub, VS Code, Postman/Thunder Client, Cloudinary
+**Deployment:** Vercel, Render
 
 ## 📂 Featured Projects
 
-### [HirePath - Job Portal](https://github.com/akramguroo-dev/hirepath) 💼
-Full-stack MERN job portal connecting students with internship opportunities
-- **Tech Stack**: MongoDB, Express, React, Node.js, Tailwind CSS
-- **Features**: 
-  - Complete authentication system with JWT
-  - Role-based access control (Student/Employer/Admin)
-  - Job posting, application, and feedback system
-  - Employer verification workflow
-  - Advanced search and filtering
-- **Status**: In Development
+### [HirePath - Full-Stack Job Portal](https://github.com/akramguroo-dev/hirepath) 💼
+Production MERN job/internship portal connecting students and employers — v1 & v2 (real-time chat) both live
+- **Tech Stack**: MongoDB, Express, React, Node.js, Socket.io, JWT, Cloudinary, Tailwind CSS
+- **Features**:
+  - JWT authentication with role-based access control (Student/Employer)
+  - Real-time messaging (Socket.io, typing indicators, read receipts)
+  - Cloudinary uploads for resumes, profile photos, company logos
+  - Auto-closing jobs on deadline via scheduled cron job
+  - 50+ backend REST endpoints
+- **Status**: v1 & v2 Production Live
+- 🔗 [Live Demo](https://hirepath-eight.vercel.app)
 
-### [Full-Stack Blog Platform](link-when-deployed) ✍️
-Complete blog application with CRUD operations
-- **Tech**: Node.js, Express, MongoDB, EJS
-- **Features**: User authentication, post management, comment system
+### [Real-Time Chat Application](https://github.com/akramguroo-dev/chat-app) 💬
+Standalone multi-room real-time chat app
+- **Tech**: React, Node.js, Express, Socket.io, MongoDB
+- **Features**: Live message broadcast, MongoDB-backed persistence, online/offline presence
+- 🔗 [Live Demo](https://chat-app-seven-self-31.vercel.app)
 
-### [Dev Dashboard](link-when-deployed) 📊
-Modern admin dashboard with routing and data visualization
-- **Tech**: React, React Router, Tailwind CSS
-- **Features**: Multi-page routing, responsive design, component-based architecture
+### [Task Dashboard](https://github.com/akramguroo-dev/dashboard) 📊
+Task management dashboard with full test coverage
+- **Tech**: React, Redux Toolkit, TypeScript, Jest, React Testing Library
+- **Features**: 25-test suite (unit + integration), task filtering, type-safe state management
+- 🔗 [Live Demo](https://dashboard-gold-theta-32.vercel.app)
 
-### [Smart Chef](https://smart-chef-react-app.vercel.app) 🍳
-AI-powered recipe generator with real-time suggestions
-- **Live Demo**: [smart-chef-react-app.vercel.app](https://smart-chef-react-app.vercel.app)
-- **Tech**: React, Node.js, Express, Groq API (Llama 3.3)
-- **Features**: AI-powered recipe generation, ingredient-based search
+### [Smart Chef](https://github.com/akramguroo-dev/smart-chef-react-app) 🍳
+AI-powered recipe generator
+- **Tech**: React, Node.js, Express, Groq API (Meta's Llama 3.3)
+- **Features**: AI-generated recipes from user ingredients, fast Groq-powered responses
+- 🔗 [Live Demo](https://smart-chef-react-app.vercel.app)
 
-### [Meme Generator](link) 😄
-Interactive meme creation tool built with React
-- **Tech**: React, API integration
-- **Features**: Dynamic meme generation, template selection
+### [Amazon Clone](https://github.com/akramguroo-dev/amazon-clone-ecommerce-site) 🛒
+Multi-page e-commerce frontend simulation
+- **Tech**: HTML, CSS, Vanilla JavaScript, REST API
+- **Features**: Cart management, checkout flow, order tracking
+- 🔗 [Live Demo](https://akramguroo-dev.github.io/amazon-clone-ecommerce-site/)
 
-### [JavaScript Amazon Clone](https://akramguroo-dev.github.io/amazon-clone-ecommerce-site/) 🛒
-E-commerce platform built with vanilla JavaScript
-- **Live Demo**: [amazon-clone-ecommerce-site](https://akramguroo-dev.github.io/amazon-clone-ecommerce-site/)
-- **Tech**: HTML, CSS, Vanilla JavaScript
-- **Features**: Product catalog, cart functionality, order management
+### [Meme Generator](https://github.com/akramguroo-dev/meme-generator-app) 😄
+Interactive meme creation tool
+- **Tech**: React, Vite, Imgflip API
+- 🔗 [Live Demo](https://meme-generator-app-cyan.vercel.app/)
 
 ## 🌱 Currently Working On
-- Building **HirePath** - A complete job portal with real-time features
-- Learning **Socket.io** for real-time chat functionality
-- Implementing advanced **authentication patterns** and **authorization workflows**
-- Mastering **MongoDB aggregation** and **database optimization**
+- Applying for full-stack internship and junior developer roles
+- Continuing HirePath's feature backlog as an ongoing hobby project (employer profiles, job management, forgot-password flow)
+- Building algorithmic foundations in C++ (STL, core DSA) for technical interviews
 
 ## 💡 Skills & Concepts
+- Real-Time Systems & WebSocket Architecture (Socket.io, JWT-authenticated handshakes)
 - RESTful API Design & Development
-- Database Modeling & Schema Design
-- Authentication & Authorization (JWT, bcrypt)
-- Version Control & Git Workflow
-- Component-Based Architecture
-- Responsive Web Design
-- Agile Development Methodology
+- Database Modeling & Schema Design (MongoDB/Mongoose, indexing)
+- Authentication & Authorization (JWT, bcrypt, role-based access control)
+- Automated Testing (Jest, React Testing Library)
+- Team Leadership & Mentorship
+- Version Control & Git Workflow (semantic commits)
+- Responsive, Component-Based UI Architecture
 
 ## 📫 Let's Connect
-**Email:** akramguroo.dev@gmail.com  
+**Email:** akramguroo.dev@gmail.com
+**Portfolio:** [portfolio-puce-six-nm8nojm82f.vercel.app](https://portfolio-puce-six-nm8nojm82f.vercel.app)
 **GitHub:** [@akramguroo-dev](https://github.com/akramguroo-dev)
 
 Open to collaboration, learning opportunities, and full-stack development roles!
