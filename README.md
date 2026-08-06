@@ -5,7 +5,7 @@
 - 💻 Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express, React, Node.js)
 - 🔌 Passionate about **backend architecture** and **real-time systems** — I recently designed and shipped a production Socket.io messaging system with JWT-authenticated WebSockets
 - 👥 Led a 3-person team to build **HirePath**, a full-stack job portal, from architecture through deployment
-- 🎓 Completed a Full-Stack Developer internship at Null Classes (EdTech)
+- 🎓 Completed a Full-Stack Developer internship at NullClass (EdTech)
 - 📚 Constantly learning — currently building algorithmic foundations in C++ and open to full-stack internship/junior developer roles
 
 ## 🛠️ Tech Stack
