@@ -11,15 +11,15 @@ I build web and mobile products end to end, from database schema and APIs to UI 
 
 ## 💼 Currently
 
-- **Full-Stack Developer Intern (Mobile)** at **ANS Oceanverse Technologies**, working on **OneBuddy**, a multi-service platform for food, grocery, rides, healthcare, home services, and delivery partners. Built with React Native, Expo Router, TypeScript, and Firebase.
-- Previously **Full-Stack Developer Intern** at **Saiteja Infotech**, where I rebuilt the company website from WordPress into a React/Vite app with a Spring Boot and MySQL backend. The site was handed over and deployed by the company's DevOps team.
+- **Full-Stack Developer Intern (Mobile)** at **ANS Oceanverse Technologies Private Limited**, working on **OneBuddy**, a multi-service platform for food, grocery, rides, healthcare, home services, and delivery partners. Built with React Native, Expo Router, TypeScript, and Firebase.
+- Previously **Full-Stack Developer Intern** at **Saiteja Infotech Private Limited**, where I rebuilt the company website from WordPress into a React/Vite app with a Spring Boot and MySQL backend. The site was handed over and deployed by the company's DevOps team.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### [HirePath: Full-Stack Job & Internship Portal](https://github.com/akramguroo-dev/hirepath)
-A production MERN job portal. I led a 3-person team as backend and integration lead.
+A production MERN job portal. I led a 3-person team as full-stack lead, architecting and building approximately 95% of the system. Teammates built the frontend UI pages.
 - JWT auth, role-based access control, Cloudinary uploads
 - Real-time messaging with Socket.io (typing indicators, read receipts)
 - Rate limiting, Helmet, input validation, and a cron job for job auto-closing
@@ -59,7 +59,8 @@ Multi-page e-commerce frontend with cart, checkout, and order tracking over a RE
 - Java and Spring Boot in depth, through production work
 - Mobile app architecture with React Native and Expo
 - Docker and deployment workflows
-- DSA, practicing consistently in JavaScript
+- DSA fundamentals in JavaScript, planned next
+- System design (high-level and low-level), planned next
 
 ---
 
