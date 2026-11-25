@@ -12,7 +12,7 @@ I build web and mobile products end to end, from database schema and APIs to UI 
 ## 💼 Currently
 
 - **Full-Stack Developer Intern (Mobile)** at **ANS Oceanverse Technologies Private Limited**, working on **OneBuddy**, a multi-service platform for food, grocery, rides, healthcare, home services, and delivery partners. Built with React Native, Expo Router, TypeScript, and Firebase.
-- Previously **Full-Stack Developer Intern** at **Saiteja Infotech Private Limited**, where I rebuilt the company website from WordPress into a React/Vite app with a Spring Boot and MySQL backend. The site was handed over and deployed by the company's DevOps team.
+- Previously **Full-Stack Developer Intern** at **Saiteja Infotech Private Limited**, where I rebuilt the company website from WordPress into a React/Vite app with a Spring Boot and MySQL backend. The repo was handed over, and the company's DevOps team deployed the site.
 
 ---
 
@@ -48,19 +48,18 @@ Multi-page e-commerce frontend with cart, checkout, and order tracking over a RE
 ## 🛠 Tech Stack
 
 **Frontend & Mobile:** React, React Native (Expo), Next.js, TypeScript, Redux Toolkit, Tailwind CSS
-**Backend:** Node.js, Express, Java Spring Boot, Socket.io, JWT, REST APIs
-**Data & Cloud:** MongoDB, MySQL, Firebase (Firestore, Cloud Functions, Realtime Database), Docker
-**Tools:** Git (feature branching, PR reviews), Jest, React Testing Library, Postman, Android Studio, Maven
+**Backend:** Node.js, Express, Java Spring Boot, Socket.io, JWT, REST APIs, Firebase
+**Data & Cloud:** MongoDB, MySQL, PostgreSQL, Firestore, Docker
+**Tools:** Git (feature branching, PR reviews), Jest, React Testing Library, Postman, Thunder Client, Swagger
 
 ---
 
 ## 📚 Learning Now
 
-- Java and Spring Boot in depth, through production work
-- Mobile app architecture with React Native and Expo
-- Docker and deployment workflows
-- DSA fundamentals in JavaScript, planned next
-- System design (high-level and low-level), planned next
+- Mobile app architecture with React Native, Expo, and TypeScript
+- System design, starting with high-level planning
+- DSA fundamentals in JavaScript (planned next)
+- Python
 
 ---
 
